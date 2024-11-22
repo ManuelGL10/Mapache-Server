@@ -3,7 +3,7 @@ import keys from './Keys.json';
 
 // Configurar las claves VAPID
 webpush.setVapidDetails(
-  'mailto:luis.gomez.21s@utzmg.edu.mx',
+  'mailto:jessica.aguilar.21s@utzmg.edu.mx',
   keys.publicKey,
   keys.privateKey
 );
